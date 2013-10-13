@@ -1,0 +1,9 @@
+<root>
+<solution>wstest</solution>
+<webCommand>contest</webCommand>
+<webHandler>wstest</webHandler>
+<webHandlerUsing>profdata.WF.Services.Commands</webHandlerUsing>
+<serviceCommand>cservtest</serviceCommand>
+<serviceHandler>cservhandletest</serviceHandler>
+<serviceHandlerUsing>profdata.WF.Web.Commands</serviceHandlerUsing>
+</root>
